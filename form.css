@@ -1,0 +1,33 @@
+*{
+    margin: 0pc;
+    padding: 0px;
+}
+
+
+
+form{
+    margin: auto auto;
+    padding-top: 15px;
+    background-color: darkturquoise;
+    width:30%;
+    height: 30%;
+    text-align: center;
+    border: 1px solid transparent;
+    border-radius: 20px;
+}
+input{
+    margin-bottom: 25px;
+    width: 80%;
+    height: 35px;
+    border-radius: 15px;
+}
+label{
+    text-transform: uppercase;
+}
+p{
+    margin-top:15px
+    text-align: center;
+    font-family: cursive;
+    line-height:  20px; 
+
+}
